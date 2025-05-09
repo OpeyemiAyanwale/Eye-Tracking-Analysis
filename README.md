@@ -1,4 +1,4 @@
-# Eye_Tracking_Analysis
+# Eye Tracking Analysis
 Eye-tracking is a widely employed tool for behaviour research due to its ability
 to provide detailed insights into visual attention and cognitive processes.  
 
